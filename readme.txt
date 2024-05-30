@@ -1,8 +1,8 @@
-Thank you for using our template!
+Travels :
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+I've crafted a website dedicated to automotive journeys, incorporating additional enhancements for an
+elevated user experience.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+User-friendly and ecient websites that are visually appealing band easy to navigate. I utilize my skills
+in HTML, CSS, JavaScript, and React Js to develop websites that meet all the requirements of the clien
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
